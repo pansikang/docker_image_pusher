@@ -1,1 +1,1 @@
-redis:5.0.14
+openjdk:8-jre
