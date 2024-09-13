@@ -1,3 +1,3 @@
 houwm/jdk8:arm64
-arm64v8/nginx
-arm64v8/redis
+arm64v8/nginx:latest
+arm64v8/redis:latest
