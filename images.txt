@@ -1,2 +1,1 @@
-arm64v8/nginx
 arm64v8/redis
