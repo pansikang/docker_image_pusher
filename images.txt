@@ -1,1 +1,3 @@
-openjdk:8-jre
+houwm/jdk8:arm64
+arm64v8/nginx
+arm64v8/redis
