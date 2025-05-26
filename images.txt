@@ -1,1 +1,1 @@
-arm64v8/redis
+openjdk:17
