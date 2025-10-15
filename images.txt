@@ -1,1 +1,1 @@
-openjdk:17
+nginx:1.29.2
